@@ -1290,6 +1290,8 @@ Growatt solar inverter. this example also shows how to send cmds to modbus
 
 ### Hager EHZ363, Apator Norax 3D (SML)
 
+Inf-Mode (extended data mode) has to be enabled to get more fields than total consumption, feed and device id. On the meter device enter PIN code to enter extended mode, short-press LEFT multiple times to go to Option "Inf" and then <b>hold</b> LEFT until option is changed to "on".
+
 ??? summary "View script"
     ```
     >D
